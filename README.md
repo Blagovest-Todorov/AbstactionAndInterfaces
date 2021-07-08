@@ -1,0 +1,2 @@
+# AbstactionAndInterfaces
+small example IntefacesAbstraction
